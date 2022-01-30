@@ -1,6 +1,6 @@
 export class Client {
     
-    companyName;    
+    companyName;
     address;        
     TVAnumber;      
     signatoryName;  
